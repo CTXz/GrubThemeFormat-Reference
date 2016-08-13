@@ -1,4 +1,4 @@
-## selected_item_color
+## item_color
 <b> <sup> Data Type : Color </sup> </b>
 
 Stores color for inactive/unselected menu item texts
