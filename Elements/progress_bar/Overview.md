@@ -4,9 +4,9 @@
 * [visible](visible/visible.md)
 
 ##### [Text](text/Overview.md)
-* [text.md](text/text.md)
-* [text_color.md](text/text_color.md)
-* [font.md](text/font.md)
+* [text](text/text.md)
+* [text_color](text/text_color.md)
+* [font](text/font.md)
 
 ##### [Color](colors/Overview.md)
 * [bg_color](color/bg_color.md)
